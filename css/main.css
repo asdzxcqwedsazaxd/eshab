@@ -7,4 +7,46 @@
 .header{
     background-color: rgb(35, 47, 62);
     border-radius: 5px 5px 0 0;
+    color: #fff;
+}
+.header a
+{
+    color: #bcbdc7;
+    list-style: none;
+    transition: all 0.3s linear;
+}
+ .tapinfo {
+    border-bottom:1px solid rgb(48, 62, 79);
+   display: flex; 
+   justify-content: space-between;
+}
+.accontlist{
+    display: flex;
+}
+.fa-icon{
+    width: 24px;
+    vertical-align: middle;
+}
+.accontlistitem
+{
+    
+}
+.accontlink>i{
+    padding-left:4px;
+}
+.accontlink
+{
+    display: block;
+    padding: 5px 15px;
+    transition: all 0.3s linear;
+}
+.accontlink:hover
+{
+    color: #fff;
+
+}
+.langueg
+{
+    padding-top:6px;
+    padding-left: 8px;
 }

@@ -9,4 +9,12 @@ body
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    font-family: IRANSans;
+}
+a{
+    text-decoration: none;
+    list-style: none;
+}
+ul{
+    list-style: none;
 }
