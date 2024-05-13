@@ -1,0 +1,10 @@
+.wrapper
+{
+    width: 90%;
+    margin: 10px auto;
+}
+/* header */
+.header{
+    background-color: rgb(35, 47, 62);
+    border-radius: 5px 5px 0 0;
+}
