@@ -18,3 +18,8 @@ a{
 ul{
     list-style: none;
 }
+select,
+input
+{
+    font-family: inherit;
+}
